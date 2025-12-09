@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "description": "Changes the 'Java Edition' subtitle to anything you want.",
+    "pack_format": 15,
+    "supported_formats": [15, 75]
+      "min_inclusive": 15,
+      "max_inclusive": 75
+    }
+  }
+}
