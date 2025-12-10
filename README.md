@@ -10,10 +10,10 @@
 9. At the top, click "Minecraft". It will auto default to 1.20's default texture, so if you want 1.19 and below, make sure to click the drag and drop and select that!
 10. Click "Save Render" then save it as "edition.png" (It may be case sensitive)
 11. Put the saved image inside the folder, under assets\minecraft\textures\gui\title, and replace the current "edition.png" with your new edition.png
-    10-1. If it asks you to replace the image, do it.
+    11-1. If it asks you to replace the image, do it.
 12. Put the folder inside '.minecraft\resourcepacks' if you havent already.
 13. Launch Minecraft. Then go to 'Options', then 'Resource Packs', then put on the resource pack and let it do its thing.
-    12-1. This should work on any modloader, from Optifine, Forge, Neoforge, heck even Rift if you will!
+    13-1. This should work on any modloader, from Optifine, Forge, Neoforge, heck even Rift if you will!
 14. Go to your main screen, and admire your creation.
 
 # A Common Issue (probably)
