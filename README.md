@@ -5,8 +5,8 @@
 [![Format](https://img.shields.io/badge/pack_format-75-purple)](https://minecraft.wiki/w/Pack_format)
 [![Versions](https://img.shields.io/badge/support-1.12.2--1.21.11-orange)](https://modrinth.com/resourcepack/edition-changer/versions)
 [![Platform](https://img.shields.io/badge/type-Resource%20Pack-yellow)](https://modrinth.com/discover/resourcepacks)
-
 [![Modrinth Downloads](https://img.shields.io/modrinth/dt/edition-changer?color=brightgreen&label=Modrinth%20Downloads&logo=modrinth)](https://modrinth.com/resourcepack/edition-changer)
+[![GitHub](https://img.shields.io/github/stars/joshuatic/edition-changer?logo=github&style=flat)](https://github.com/joshuatic/edition-changer)
 
 ---
 
