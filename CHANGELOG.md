@@ -10,7 +10,8 @@
 - Filler logos (hi-res, dark mode) in '\filler'
 - Metadata polish (updated description, and updated version formatting in pack.mcmeta)
 - Added 2 new files 'CHANGELOG.md' and 'LICENSE.txt'
-- 1.21.11 Support
+- Offical 1.21.11 Support
+- Fixed issues with version compatibility (in resource packs menu)
 # Future
 - Spanish, French, Portuguese, German, and Polish translations.
 - Github Page

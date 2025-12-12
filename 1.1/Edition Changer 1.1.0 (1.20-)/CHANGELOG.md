@@ -8,7 +8,7 @@
 - New 'pack.png'
 - New modrinth Youtube Tutorial
 - Filler logos (hi-res, dark mode) in '\filler'
-- Metadata polish (updated description, and updated version formatting in pack.mcmeta)
+- Metadata polish (updated description, and fixed version formatting in pack.mcmeta)
 - Added 2 new files 'CHANGELOG.md' and 'LICENSE.txt'
 - 1.21.11 Support
 # Future

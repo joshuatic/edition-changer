@@ -1,6 +1,10 @@
 {
   "pack": {
+    "description": "Changes the 'Java Edition' subtitle to anything you want.",
     "pack_format": 3,
-    "description": "Edition Changer (1.12.2-1.19.4)"
+    "supported_formats": {
+      "min_inclusive": 3,
+      "max_inclusive": 13
+    }
   }
 }
