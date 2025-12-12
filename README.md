@@ -10,9 +10,6 @@
 
 ---
 
-A mod that is made to change your 'Java Edition' subtitle text!
+A resource pack that changes the 'Java Edition' subtitle text!
 
 A tutorial is in the works, it will be out real soon! Make sure to stay tuned!
-
-
-
