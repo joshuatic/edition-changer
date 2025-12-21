@@ -7,7 +7,7 @@
 # 1.1.0 = Visual Refresh
 - New 'pack.png'
 - New modrinth Youtube Tutorial
-- Filler logos (hi-res, dark mode) in '\filler'
+- Filler logos (dark, resin, etc) in '\filler'
 - Metadata polish (updated description, and updated version formatting in pack.mcmeta)
 - Added 2 new files 'CHANGELOG.md' and 'LICENSE.txt'
 - Offical 1.21.11 Support

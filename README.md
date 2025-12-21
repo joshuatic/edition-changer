@@ -10,6 +10,6 @@
 
 ---
 
-A resource pack that changes the 'Java Edition' subtitle text!
+A resourcepack that changes the 'Java Edition' subtitle text!
 
 A tutorial is in the works, it will be out real soon! Make sure to stay tuned!
