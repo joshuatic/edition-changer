@@ -1,0 +1,9 @@
+Make sure to change the names back to 'edition.png' whenever you're done!
+
+If you wanna have a custom logo with your own preference, make your logo. BUT click "Next" instead of finish
+	Click choose your texture. You can make a golden logo (Bevelled Gold), a nether-themed logo (Atmosphere), or even a grass logo (Grass)
+
+Make sure you use "Minecraft" and select '1.19- Title Texture'
+
+Thanks!
+-Joshuatic
